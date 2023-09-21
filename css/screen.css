@@ -26,7 +26,7 @@ h1{
   }
   
 
-  @media screen and (min-width: 769px) {
+  @media screen and (min-width: 770px) {
     form {
       width: 40%; 
     }
